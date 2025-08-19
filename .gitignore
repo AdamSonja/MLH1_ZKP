@@ -1,0 +1,7 @@
+# Ignore nested git repos
+circomlib2/
+circuits/circomlib/
+circuits/mlh1_check_js/
+
+# Ignore node dependencies
+node_modules/
